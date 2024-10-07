@@ -1,0 +1,14 @@
+{
+  "name": "com.legeodo.scriptableobjectsavesystem",
+  "version": "1.0.0",
+  "displayName": "Scriptable Object Save System",
+  "dependencies": {},
+  "author": {
+    "name": "Legeodo"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Legerdo/ScriptableObjectSaveSystem.git",
+    "revision": "main"
+  }
+}
